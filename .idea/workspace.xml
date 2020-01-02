@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ffc74e00-b7df-45e6-9832-b6bde9ddc713" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/hanze/nl/infobord/ListenerStarter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hanze/nl/infobord/ListenerStarter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hanze/nl/infobord/InfoBord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hanze/nl/infobord/InfoBord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hanze/nl/infobord/ListenerStarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hanze/nl/infobord/ListenerStarter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hanze/nl/infobord/QueueListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hanze/nl/infobord/QueueListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hanze/nl/infobord/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hanze/nl/infobord/Runner.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +17,16 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/hanze" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sander\IdeaProjects\EAI-SQ\src\hanze" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576060968351</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="voor EAI">
+      <created>1577971483413</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577971483413</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +131,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Poging tot shit fixen" />
     <MESSAGE value="Shit is nu gefixt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Shit is nu gefixt" />
+    <MESSAGE value="voor EAI" />
+    <option name="LAST_COMMIT_MESSAGE" value="voor EAI" />
   </component>
 </project>
